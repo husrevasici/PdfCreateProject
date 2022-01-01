@@ -40,7 +40,7 @@ import com.mysql.jdbc.Connection;
 import com.mysql.jdbc.PreparedStatement;
 import com.mysql.jdbc.Statement;
 
-public class mudekPdfReportCreate {
+public class MudekPdfReportCreate {
 	private static String FILE = "D:/dowlandPdf/itextPdfTutorialVersion123.pdf";
 	private static String resultsFromTheMidtermExamLetterGradeName[] = { "D", "AA", "BA", "BB", "CB", "CC", "DC", "DD",
 			"FD", "FF", "XX" };
