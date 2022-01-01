@@ -1,6 +1,6 @@
 package PdfProject;
 
-public class dersUygulamaPlaniItems {
+public class DersUygulamaPlaniItems {
 
 	private int id;
 	private String dersAdi, dersKodu, kredi, AKTS, onKosul, ogretimElamani, ePosta, ofisSaatleri, dersSaatleri, web,
